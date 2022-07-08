@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/nilise/AndroidStudioProjects/MainProject/app/src/main/res/layout/activity_call.xml" value="0.25" />
+        <entry key="..\:/Users/nilise/AndroidStudioProjects/MainProject/app/src/main/res/drawable/round_btn.xml" value="0.3675" />
+        <entry key="..\:/Users/nilise/AndroidStudioProjects/MainProject/app/src/main/res/drawable/roundedbutton.xml" value="0.295" />
+        <entry key="..\:/Users/nilise/AndroidStudioProjects/MainProject/app/src/main/res/layout/activity_call.xml" value="0.33" />
         <entry key="..\:/Users/nilise/AndroidStudioProjects/MainProject/app/src/main/res/layout/activity_main.xml" value="0.33" />
       </map>
     </option>
